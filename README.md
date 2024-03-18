@@ -9,5 +9,5 @@ Everything OpenSim needs in terms of artificial intelligence.
 * Das lernen des OpenSimulator Sourcecode sowie alle Erweiterungen.
 * Das lernen des Second Life Viewer Sourcecode.
 * Das lernen des Firestorm Viewer Sourcecode.
-* Linden Script Language.
-* OpenSim Script Language.
+* Das lernen der Linden Script Language.
+* Das lernen der OpenSim Script Language.

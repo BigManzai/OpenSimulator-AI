@@ -1,7 +1,7 @@
 # OpenSimulator-AI
-Alles, was OpenSim an Künstlicher Intelligenz benötigt.
+Alles, was OpenSim an Künstlicher Intelligenz benötigt. Version 0.0.1 Prototype
 
-Everything OpenSim needs in terms of artificial intelligence.
+Everything OpenSim needs in terms of artificial intelligence. Version 0.0.1 Prototype
 
 # Todo
 * Das lernen von C, Cpp, C#, CMake.

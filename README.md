@@ -4,7 +4,7 @@ Alles, was OpenSim an Künstlicher Intelligenz benötigt. Version 0.0.1 Prototyp
 Everything OpenSim needs in terms of artificial intelligence. Version 0.0.1 Prototype
 
 # Todo
-* Das lernen von Text, PDF, c, cpp, h, cs, py sollte automatisch erkannt und aufbereitet werden.
+* Das lernen von Text, PDF, c, cpp, h, cs, py Dateien, sollte automatisch erkannt und aufbereitet werden.
 * Das lernen von C, Cpp, C#, CMake.
 * Das lernen von Python und Autobuild.
 * Das lernen des OpenSimulator Sourcecode sowie alle Erweiterungen.

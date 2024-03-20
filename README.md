@@ -11,3 +11,5 @@ Everything OpenSim needs in terms of artificial intelligence. Version 0.0.1 Prot
 * Das lernen des Firestorm Viewer Sourcecode.
 * Das lernen der Linden Script Language.
 * Das lernen der OpenSim Script Language.
+* German - English
+* English - German
